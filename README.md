@@ -51,7 +51,12 @@
 ---
 
 ### 📌 Pinned Project
-
+-- BookMyShow Clone
+-- Youtube clone
+-- QR Generator
+-- Word-To-PDF
+-- LinkShorter
+-- Social Media
 ---
 
 _🔥 Made with passion. Open to collaborations and cool project ideas!_
