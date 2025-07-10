@@ -63,6 +63,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-black?style=flat-square&logo=thunder-client)
 
 ---
 
