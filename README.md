@@ -1,24 +1,34 @@
-# 👋 Hi, I'm Aman Sharma
+<!-- Typing Header -->
+<h1 align="center">
+  👋 Hi, I'm Aman Sharma
+</h1>
 
-🚀 **Full Stack Developer** | 🧠 **AI Enthusiast** | 💻 **React & Node.js Dev**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&color=F70000&width=435&lines=🚀+Full+Stack+Developer;🧠+AI+Enthusiast;💻+React+%2B+Node.js+Dev;💡+Tech+Lover+%7C+Builder+%7C+Doer" alt="Typing SVG" />
+</p>
+
+---
+
+> “Code is not just logic, it’s an extension of your thinking.”
 
 ---
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on: `Swift-Chat`, `AI Meal Planner`
-- 🌱 I’m learning: **AI/ML** and advanced **React patterns**
-- 🧠 Passionate about building: AI tools, productivity web apps, and smart UI/UX
-- 💬 Ask me about: **React**, **Node.js**, **MongoDB**, **OpenAI**, and **Tailwind CSS**
-- ⚡ Fun fact: I treat my side projects like startups!
+- 🔭 I’m currently working on: `Swift-Chat`, `AI Meal Planner`  
+- 🌱 I’m learning: **AI/ML** and advanced **React patterns**  
+- 🧠 Passionate about building: AI tools, productivity web apps, and smart UI/UX  
+- 💬 Ask me about: **React**, **Node.js**, **MongoDB**, **OpenAI**, and **Tailwind CSS**  
+- ⚡ Fun fact: Currently working with **Indian Railways** while building exciting tech on the side.
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-28b237247)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sharma0813-black?logo=github)](https://github.com/Sharma0813)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-28b237247)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=google-chrome)](https://yourwebsite.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Sharma0813-black?logo=github)](https://github.com/Sharma0813)  
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://your-resume-link.com)
 
 ---
 
@@ -27,6 +37,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma0813&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharma0813&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -42,6 +58,14 @@
 
 ---
 
+## 🧰 Tools I Use
+
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+---
+
 ### 🏆 GitHub Highlights
 
 ![Followers](https://img.shields.io/github/followers/Sharma0813?label=Follow&style=social)
@@ -50,13 +74,25 @@
 
 ---
 
-### 📌 Pinned Project
--- BookMyShow Clone
--- Youtube clone
--- QR Generator
--- Word-To-PDF
--- LinkShorter
--- Social Media
+### 📌 Pinned Projects
+
+- 🎬 BookMyShow Clone  
+- 📺 YouTube Clone  
+- 📦 QR Generator  
+- 📄 Word-To-PDF Converter  
+- 🔗 Link Shortener  
+- 🌐 Social Media App  
+
 ---
 
-_🔥 Made with passion. Open to collaborations and cool project ideas!_
+### 🎥 Project Showcase
+
+> *(Add GIFs or screenshots of your best projects here)*
+
+Example:  
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
+
+---
+
+_🔥 Made with passion. Open to collaborations and cool project ideas!_  
+🙏 Thanks for visiting my profile! Let's build something amazing together.
