@@ -88,8 +88,8 @@
 
 ### 🎥
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
-<img src="[https://surl.li/jsfzqc](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYzbXhpbmF0am5tZzdzZGN1bTI0OTR0ZnY2OG1ubXRzbXV5NHd4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif)" width="300"/>
+/*<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>/*
+<img src="[https://surl.li/jsfzqc](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYzbXhpbmF0am5tZzdzZGN1bTI0OTR0ZnY2OG1ubXRzbXV5NHd4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif)" width="300" />
 
 ---
 
