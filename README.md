@@ -15,7 +15,7 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on: `Swift-Chat`, `AI Meal Planner`  
+- 🔭 I’m currently working on: `Live-Chat Application`, `AI Music Generator`  
 - 🌱 I’m learning: **AI/ML** and advanced **React patterns**  
 - 🧠 Passionate about building: AI tools, productivity web apps, and smart UI/UX  
 - 💬 Ask me about: **React**, **Node.js**, **MongoDB**, **OpenAI**, and **Tailwind CSS**  
@@ -80,7 +80,7 @@
 - 🎬 BookMyShow Clone  
 - 📺 YouTube Clone  
 - 📦 QR Generator  
-- 📄 Word-To-PDF Converter  
+- 📄 Expense Tracker  
 - 🔗 Link Shortener  
 - 🌐 Social Media App  
 
@@ -88,7 +88,7 @@
 
 ### 🎥
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
 
 ---
 
