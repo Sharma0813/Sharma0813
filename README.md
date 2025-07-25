@@ -89,7 +89,7 @@
 ### 🎥
 
 
-<img src="[C:\Users\amans\OneDrive\Desktop\Demand\giphy.gif.url](https://images.app.goo.gl/yQZDy6GDGGSMxcme7)](https://images.app.goo.gl/yQZDy6GDGGSMxcme7)" width="300" />
+<img src="<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 
 ---
 
