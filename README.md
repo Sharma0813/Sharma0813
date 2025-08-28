@@ -15,7 +15,7 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on: `Live-Chat Application`, `AI Music Generator`  
+- 🔭 I’m currently working on: `AI Music Generator`, `AI Meal-Planner`
 - 🌱 I’m learning: **AI/ML** and advanced **React patterns**  
 - 🧠 Passionate about building: AI tools, productivity web apps, and smart UI/UX  
 - 💬 Ask me about: **React**, **Node.js**, **MongoDB**, **OpenAI**, and **Tailwind CSS**  
