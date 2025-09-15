@@ -15,31 +15,27 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on: `AI Music Generator`, `AI Meal-Planner`
+- 🔭 I’m currently working on: `AI Music Generator`, `AI Meal-Planner`  
 - 🌱 I’m learning: **AI/ML** and advanced **React patterns**  
 - 🧠 Passionate about building: AI tools, productivity web apps, and smart UI/UX  
 - 💬 Ask me about: **React**, **Node.js**, **MongoDB**, **OpenAI**, and **Tailwind CSS**  
-- ⚡ Fun fact: Currently working with **Indian Railways** while building exciting tech on the side.
+- ⚡ Fun fact: Currently working with **Indian Railways** while building exciting tech on the side.  
 
 ---
 
 ### 📫 Connect with Me
 
-### 📫 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-28b237247)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=google-chrome)]([https://sharma0813.github.io/](https://github.com/Sharma0813/Portfolio-main.git))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=google-chrome)](https://sharma0813.github.io/Portfolio-main/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Sharma0813-black?logo=github)](https://github.com/Sharma0813)  
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Sharma0813/assets/blob/2b94765a84a1c8982d03693dece5584d3014f583/AMAN%20SHARMA-%20Resume.pdf)
-
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Sharma0813/assets/blob/2b94765a84a1c8982d03693dece5584d3014f583/AMAN%20SHARMA-%20Resume.pdf)  
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma0813&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma0813&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
@@ -72,9 +68,9 @@
 
 ### 🏆 GitHub Highlights
 
-![Followers](https://img.shields.io/github/followers/Sharma0813?label=Follow&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Sharma0813&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Sharma0813?style=social)
+![Followers](https://img.shields.io/github/followers/Sharma0813?label=Follow&style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=Sharma0813&color=blue)  
+![GitHub Stars](https://img.shields.io/github/stars/Sharma0813?style=social)  
 
 ---
 
@@ -90,7 +86,6 @@
 ---
 
 ### 🎥
-
 
 <img src="https://miro.medium.com/v2/resize:fit:720/0*ml-sqJgtbzv5R3_a.gif" width="300"/>
 
