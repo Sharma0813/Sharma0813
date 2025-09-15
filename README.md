@@ -28,7 +28,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-28b237247)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=google-chrome)](https://sharma0813.github.io/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=google-chrome)]([https://sharma0813.github.io/](https://github.com/Sharma0813/Portfolio-main.git))  
 [![GitHub](https://img.shields.io/badge/GitHub-Sharma0813-black?logo=github)](https://github.com/Sharma0813)  
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Sharma0813/assets/blob/2b94765a84a1c8982d03693dece5584d3014f583/AMAN%20SHARMA-%20Resume.pdf)
 
