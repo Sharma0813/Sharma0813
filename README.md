@@ -41,7 +41,7 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharma0813&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sharma0813&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
