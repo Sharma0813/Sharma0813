@@ -1,80 +1,42 @@
-<!-- Typing Header -->
-<h1 align="center">
-  👋 Hi, I'm Aman Sharma
-</h1>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Aman Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&color=F70000&width=435&lines=🚀+Full+Stack+Developer;🧠+AI+Enthusiast;💻+React+%2B+Node.js+Dev;💡+Tech+Lover+%7C+Builder+%7C+Doer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=F70000&width=480&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%2B+Node.js+Developer;Building+Real+World+Digital+Products" />
 </p>
 
 ---
 
-> “Code is not just logic, it’s an extension of your thinking.”
+### 🌟 About Me  
+I'm a **Full Stack Developer** passionate about building **real-world products**, AI-powered tools, and clean user experiences.  
+Currently working with **Indian Railways**, while developing scalable tech projects on the side.
+
+- 🚀 *Currently Building:* AI Music Generator, AI Meal Planner  
+- 🎯 *Focused On:* MERN Stack | AI Integrations | System Design | Productivity Tools  
+- 💬 *Ask me about:* React, Node.js, MongoDB, OpenAI, Tailwind  
+- ⚡ *Fun fact:* I love turning ideas into working products fast.
 
 ---
 
-### 🌟 About Me
+# 🔥 Featured Real-World Projects  
+> **These are the projects recruiters should see FIRST. Replace demo links when ready.**
 
-- 🔭 I’m currently working on: `AI Music Generator`, `AI Meal-Planner`  
-- 🌱 I’m learning: **AI/ML** and advanced **React patterns**  
-- 🧠 Passionate about building: AI tools, productivity web apps, and smart UI/UX  
-- 💬 Ask me about: **React**, **Node.js**, **MongoDB**, **OpenAI**, and **Tailwind CSS**  
-- ⚡ Fun fact: Currently working with **Indian Railways** while building exciting tech on the side.  
+### 🧠 **AI Resume Analyzer + Job Match (ATS Tool)**  
+A tool that scores resumes, suggests improvements, and matches them with job descriptions using NLP.  
+🔗 *GitHub:* soon | 🌐 *Live:* soon  
 
----
+### 🏪 **Smart Inventory Management for Small Shops**  
+Tracks stock, generates alerts, auto-billing, barcode scanning + reports dashboard.  
+🔗 *GitHub:* soon | 🌐 *Live:* soon  
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-28b237247)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=google-chrome)](https://sharma0813.github.io/Portfolio-main/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Sharma0813-black?logo=github)](https://github.com/Sharma0813)  
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Sharma0813/assets/blob/2b94765a84a1c8982d03693dece5584d3014f583/AMAN%20SHARMA-%20Resume.pdf)  
+### 📍 **Local Service Finder (Urban Company-style)**  
+A marketplace to book services like electrician/plumber with role-based dashboards.  
+🔗 *GitHub:* soon | 🌐 *Live:* soon  
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma0813&layout=compact&theme=radical&hide_border=true)  
-
----
-
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sharma0813&theme=radical&hide_border=true&cache_seconds=3600)](https://git.io/streak-stats)
-
----
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
-
----
-
-## 🧰 Tools I Use
-
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-black?style=flat-square&logo=thunder-client)
-
----
-
-### 🏆 GitHub Highlights
-
-![Followers](https://img.shields.io/github/followers/Sharma0813?label=Follow&style=social)  
-![Profile views](https://komarev.com/ghpvc/?username=Sharma0813&color=blue)  
-![GitHub Stars](https://img.shields.io/github/stars/Sharma0813?style=social)  
-
----
-
-### 📌 Pinned Projects
+# 📌 Previous Projects  
+*(Keep but DO NOT highlight these as your main work)*  
 
 - 🎬 BookMyShow Clone  
 - 📺 YouTube Clone  
@@ -85,11 +47,41 @@
 
 ---
 
-### 🎥
+# 🛠 Tech Stack  
 
-<img src="https://miro.medium.com/v2/resize:fit:720/0*ml-sqJgtbzv5R3_a.gif" width="300"/>
+### **Frontend:**  
+React • Next.js • Tailwind CSS • Redux Toolkit  
+
+### **Backend:**  
+Node.js • Express.js • MongoDB  
+
+### **AI / ML:**  
+OpenAI API • Prompt Engineering • NLP Fundamentals  
+
+### **Tools:**  
+VS Code • Git & GitHub • Postman • Thunder Client  
 
 ---
 
-_🔥 Made with passion. Open to collaborations and cool project ideas!_  
-🙏 Thanks for visiting my profile! Let's build something amazing together.
+# 📊 GitHub Analytics  
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma0813&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Sharma0813&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-28b237247)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=google-chrome)](https://sharma0813.github.io/Portfolio-main/)  
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Sharma0813/assets/blob/2b94765a84a1c8982d03693dece5584d3014f583/AMAN%20SHARMA-%20Resume.pdf)
+
+---
+
+<h3 align="center">⚡ Always learning. Always building. Open to collaborations!</h3>
