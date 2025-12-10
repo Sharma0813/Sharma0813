@@ -35,8 +35,7 @@ A marketplace to book services like electrician/plumber with role-based dashboar
 
 ---
 
-# 📌 Previous Projects  
-*(Keep but DO NOT highlight these as your main work)*  
+# 📌 Previous Projects 
 
 - 🎬 BookMyShow Clone  
 - 📺 YouTube Clone  
@@ -63,16 +62,19 @@ VS Code • Git & GitHub • Postman • Thunder Client
 
 ---
 
-# 📊 GitHub Analytics  
+### 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma0813&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" alt="Aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma0813&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🔥 GitHub Streak
+
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Sharma0813&theme=radical&hide_border=true" />
+  <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Sharma0813&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
