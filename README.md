@@ -61,11 +61,11 @@ VS Code • Git & GitHub • Postman • Thunder Client
 
 ---
 
-### 📊 GitHub Stats (quick view)
+### 📊 Quick Badges
 
-[View GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=Sharma0813) •
-[Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sharma0813) •
-[Streak](https://streak-stats.demolab.com/?user=Sharma0813)
+[![GitHub followers](https://img.shields.io/github/followers/Sharma0813?style=social)](https://github.com/Sharma0813)
+[![GitHub stars](https://img.shields.io/github/stars/Sharma0813?style=social)](https://github.com/Sharma0813/stargazers)
+[![Profile views](https://komarev.com/ghpvc/?username=Sharma0813&color=blue)](https://github.com/Sharma0813)
 
 ---
 
