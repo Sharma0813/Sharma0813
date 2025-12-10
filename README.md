@@ -19,9 +19,8 @@ Currently working with **Indian Railways**, while developing scalable tech proje
 ---
 
 # 🔥 Featured Real-World Projects  
-> **These are the projects recruiters should see FIRST. Replace demo links when ready.**
 
-### 🧠 **AI Resume Analyzer + Job Match (ATS Tool)**  
+### 🧠 **AI Resume Analyzer + Job Match**  
 A tool that scores resumes, suggests improvements, and matches them with job descriptions using NLP.  
 🔗 *GitHub:* soon | 🌐 *Live:* soon  
 
@@ -29,7 +28,7 @@ A tool that scores resumes, suggests improvements, and matches them with job des
 Tracks stock, generates alerts, auto-billing, barcode scanning + reports dashboard.  
 🔗 *GitHub:* soon | 🌐 *Live:* soon  
 
-### 📍 **Local Service Finder (Urban Company-style)**  
+### 📍 **Local Service Finder**  
 A marketplace to book services like electrician/plumber with role-based dashboards.  
 🔗 *GitHub:* soon | 🌐 *Live:* soon  
 
