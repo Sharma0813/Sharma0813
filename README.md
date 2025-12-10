@@ -61,18 +61,11 @@ VS Code • Git & GitHub • Postman • Thunder Client
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (quick view)
 
-<p>
-  <img height="170" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Sharma0813&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sharma0813&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🔥 GitHub Streak
-<p>
-  <img height="170" src="https://streak-stats.demolab.com/?user=Sharma0813&theme=tokyonight&hide_border=true" />
-</p>
-
+[View GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=Sharma0813) •
+[Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sharma0813) •
+[Streak](https://streak-stats.demolab.com/?user=Sharma0813)
 
 ---
 
