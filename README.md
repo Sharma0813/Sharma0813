@@ -11,10 +11,10 @@
 I'm a **Full Stack Developer** passionate about building **real-world products**, AI-powered tools, and clean user experiences.  
 Currently working with **Indian Railways**, while developing scalable tech projects on the side.
 
-- 🚀 *Currently Building:* AI Music Generator, AI Meal Planner  
-- 🎯 *Focused On:* MERN Stack | AI Integrations | System Design | Productivity Tools  
-- 💬 *Ask me about:* React, Node.js, MongoDB, OpenAI, Tailwind  
-- ⚡ *Fun fact:* I love turning ideas into working products fast.
+- 🚀 **Currently Building:** AI Music Generator, AI Meal Planner  
+- 🎯 **Focused On:** MERN Stack | AI Integrations | System Design | Productivity Tools  
+- 💬 **Ask me about:** React, Node.js, MongoDB, OpenAI, Tailwind  
+- ⚡ **Fun fact:** I love turning ideas into working products fast.
 
 ---
 
@@ -22,15 +22,15 @@ Currently working with **Indian Railways**, while developing scalable tech proje
 
 ### 🧠 **AI Resume Analyzer + Job Match**  
 A tool that scores resumes, suggests improvements, and matches them with job descriptions using NLP.  
-🔗 *GitHub:* soon | 🌐 *Live:* soon  
+🔗 **GitHub:** soon | 🌐 **Live:** soon  
 
 ### 🏪 **Smart Inventory Management for Small Shops**  
 Tracks stock, generates alerts, auto-billing, barcode scanning + reports dashboard.  
-🔗 *GitHub:* soon | 🌐 *Live:* soon  
+🔗 **GitHub:** soon | 🌐 **Live:** soon  
 
 ### 📍 **Local Service Finder**  
 A marketplace to book services like electrician/plumber with role-based dashboards.  
-🔗 *GitHub:* soon | 🌐 *Live:* soon  
+🔗 **GitHub:** soon | 🌐 **Live:** soon  
 
 ---
 
@@ -42,6 +42,22 @@ A marketplace to book services like electrician/plumber with role-based dashboar
 - 📄 Expense Tracker  
 - 🔗 Link Shortener  
 - 🌐 Social Media App  
+
+---
+
+# 📈 GitHub Activity Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharma0813&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharma0813&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
@@ -64,7 +80,7 @@ VS Code • Git & GitHub • Postman • Thunder Client
 ### 📊 Quick Badges
 
 [![GitHub followers](https://img.shields.io/github/followers/Sharma0813?style=social)](https://github.com/Sharma0813)
-[![GitHub stars](https://img.shields.io/github/stars/Sharma0813?style=social)](https://github.com/Sharma0813/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Sharma0813?style=social)](https://github.com/Sharma0813?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=Sharma0813&color=blue)](https://github.com/Sharma0813)
 
 ---
@@ -72,11 +88,12 @@ VS Code • Git & GitHub • Postman • Thunder Client
 # 🤝 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-28b237247)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=google-chrome)](https://sharma0813.github.io/Portfolio-main/)  
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=adobeacrobatreader&logoColor=white)](./AMAN_Resume.pdf)
- 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=google-chrome)](https://sharma0813.github.io/Portfolio-main/)  
+
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://github.com/Sharma0813/assets/blob/55aab7965ca08f0ae5c43d25535f03681d70a421/AMAN_Resume.pdf)
 
 ---
 
 <h3 align="center">⚡ Always learning. Always building. Open to collaborations!</h3>
+```
