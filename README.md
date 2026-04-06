@@ -1,3 +1,4 @@
+
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Aman Sharma</h1>
 
@@ -45,18 +46,6 @@ A marketplace to book services like electrician/plumber with role-based dashboar
 
 ---
 
-# 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharma0813&theme=dark&hide_border=true" />
-</p>
-
----
-
 # 🛠 Tech Stack  
 
 ### **Frontend:**  
@@ -75,8 +64,8 @@ VS Code • Git & GitHub • Postman • Thunder Client
 
 ### 📊 Quick Badges
 
-[![GitHub followers](https://img.shields.io/github/followers/Sharma0813?style=social)](https://github.com/Sharma0813)
-[![GitHub stars](https://img.shields.io/github/stars/Sharma0813?style=social)](https://github.com/Sharma0813?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/Sharma0813?style=social)](https://github.com/Sharma0813)  
+[![GitHub stars](https://img.shields.io/github/stars/Sharma0813?style=social)](https://github.com/Sharma0813?tab=repositories)  
 [![Profile views](https://komarev.com/ghpvc/?username=Sharma0813&color=blue)](https://github.com/Sharma0813)
 
 ---
