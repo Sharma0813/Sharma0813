@@ -45,7 +45,7 @@ A marketplace to book services like electrician/plumber with role-based dashboar
 
 ---
 
-# 📈 GitHub Activity Status
+# 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sharma0813&show_icons=true&theme=github_dark&hide_border=true" />
@@ -53,10 +53,6 @@ A marketplace to book services like electrician/plumber with role-based dashboar
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharma0813&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharma0813&theme=github-dark&hide_border=true" />
 </p>
 
 ---
