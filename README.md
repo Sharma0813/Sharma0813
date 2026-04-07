@@ -74,7 +74,7 @@ VS Code • Git & GitHub • Postman • Thunder Client
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-28b237247)  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=google-chrome)](https://sharma0813.github.io/Portfolio-main/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?logo=vercel&logoColor=white)](https://portfolio-main-sigma-gold.vercel.app)
 
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://github.com/Sharma0813/assets/blob/55aab7965ca08f0ae5c43d25535f03681d70a421/AMAN_Resume.pdf)
 
